@@ -4,7 +4,7 @@ marketsim
 ## Background
 
 This project was created to be used in an experiment for my non-developer friend's honours thesis.  I worked on it
-alongside two other friends (both experienced C++ coders) who started the project off and handled the majority of the
+alongside three other friends (all experienced C++ coders) who started the project off and handled the majority of the
 development.
 
 I helped with the design and coded some of the initial layout and functionality.  This was my first real experience
